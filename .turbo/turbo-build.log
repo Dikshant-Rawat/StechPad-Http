@@ -1,0 +1,5 @@
+
+
+> http-server@1.0.0 build /Users/dikshantrawat/Downloads/turborepo-prisma7-main copy/apps/http-backend
+> tsc -b
+
